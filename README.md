@@ -89,7 +89,7 @@ RedditToolkit
 ### ⿡ Clone the Repository
 bash
 ```
-git clone https://github.com/tushar80rt/RedditInsight.git
+git clone https://github.com/HarshS99/REDDID_INISIGHT_AGENT.git
 cd RedditInsight
 ```
 
